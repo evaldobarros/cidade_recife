@@ -1,0 +1,21 @@
+.formatacao {
+  text-align: center;
+  background-color: aqua;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 20px;
+}
+.imagens {
+  margin: 20px;
+  border-color: rgb(141, 204, 68);
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  margin: 20px;
+}
+.margenlink {
+  margin: 20px;
+  font-size: medium;
+}
